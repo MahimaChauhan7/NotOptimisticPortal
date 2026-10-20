@@ -1,0 +1,8 @@
+{
+  "name": "not-optimistic-portal",
+  "private": true,
+  "devDependencies": {
+    "@eth-optimism/contracts": "0.6.0",
+    "@openzeppelin/contracts": "5.0.2"
+  }
+}
